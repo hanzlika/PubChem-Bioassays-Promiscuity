@@ -1,3 +1,4 @@
+build/*
 *.csv
 *.tsv
 __pycache__/
